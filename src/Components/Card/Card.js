@@ -19,8 +19,6 @@ export default function Card(props) {
             <div className="card-container">
                 <div className="card-id-wrapper">
                     <div className="card-id">{props.cardDetails.id}</div>
-                    
-                    {/* Hide card-profile if grouped by user */}
                     {props.groupValue !== 'user' && (
                         <div className="card-profile">
                             <div className="card-profile-initial">
@@ -38,7 +36,6 @@ export default function Card(props) {
                 </div>
 
                 <div className="card-title-wrapper">
-                    {/* Show status icon only when not grouped by status */}
                     {props.groupValue !== 'status' && (
                         <div className="card-status-icon">
                             {
@@ -57,7 +54,6 @@ export default function Card(props) {
                 </div>
 
                 <div className="card-tag">
-                    {/* Hide priority icon if grouped by priority */}
                     {props.groupValue !== 'priority' && (
                         <>
                             {
