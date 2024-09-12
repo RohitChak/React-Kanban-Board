@@ -29,13 +29,13 @@ export default function List(props) {
                                 'status': <>{
                                     {
                                         'Backlog': <div className="list-icon">
-                                            <img src={inProgressIcon} alt="icon" />
-                                        </div>,
-                                        'Todo': <div className="list-icon">
                                             <img src={backlogIcon} alt="icon" />
                                         </div>,
-                                        'In progress': <div className="list-icon">
+                                        'Todo': <div className="list-icon">
                                             <img src={todoIcon} alt="icon" />
+                                        </div>,
+                                        'In progress': <div className="list-icon">
+                                            <img src={inProgressIcon} alt="icon" />
                                         </div>,
                                         'Done': <div className="list-icon">
                                             <img src={doneIcon} alt="icon" />
@@ -50,6 +50,13 @@ export default function List(props) {
                                         <div className="list-card-profile-initial">
                                             {props.listTitle[0]}{props.listTitle[1]}
                                         </div>
+                                        <div
+                                            className={
+                                                props.ticketDetails.some(ticket => ticket.userObj.name === props.listTitle && ticket.userObj.available)
+                                                    ? 'list-card-profile-initial-available list-card-profile-initial-available-true'
+                                                    : 'list-card-profile-initial-available'
+                                            }
+                                        ></div>
                                     </div>
                                 } </>,
                                 'priority': <>{
@@ -110,7 +117,6 @@ export default function List(props) {
                             }
                             return null
                         }, cardCount = 0)
-
                     }
                 </div>
             </div>

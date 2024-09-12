@@ -58,7 +58,21 @@
 .list-card-profile-initial {
     text-transform: uppercase;
 }
+.list-card-profile-initial-available {
+    height: 12px;
+    width: 12px;
+    background-color: var(--grey1);
+    border: 1.5px solid var(--white1);
+    position: absolute;
+    z-index: 0;
+    border-radius: 50%;
+    left: 70%;
+    top: 70%;
+}
 
+.list-card-profile-initial-available-true {
+    background-color: rgb(72, 223, 12);
+}
 
 @media (max-width: 500px) and (min-width: 300px){
     .list-container{
