@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-kanban-board/static/css/main.0473b8de.css",
+    "main.js": "/react-kanban-board/static/js/main.7f02d8fb.js",
+    "static/js/787.15952500.chunk.js": "/react-kanban-board/static/js/787.15952500.chunk.js",
+    "static/media/Cancelled.svg": "/react-kanban-board/static/media/Cancelled.360749f102ea2ac68b5841e9f9ff29dd.svg",
+    "static/media/3 dot menu.svg": "/react-kanban-board/static/media/3 dot menu.4caedb468f68b915626e0e35045257b3.svg",
+    "static/media/No-priority.svg": "/react-kanban-board/static/media/No-priority.7218b139313728c6a4efa8da6e34852b.svg",
+    "static/media/Done.svg": "/react-kanban-board/static/media/Done.a5158827c6345b2f141ff681c57cb3ac.svg",
+    "index.html": "/react-kanban-board/index.html",
+    "static/media/Img - Low Priority.svg": "/react-kanban-board/static/media/Img - Low Priority.491e21f9000cb90112dea470dbb72650.svg",
+    "static/media/Img - Medium Priority.svg": "/react-kanban-board/static/media/Img - Medium Priority.83775665307e977d62e9b0fc7fb95cc4.svg",
+    "static/media/Img - High Priority.svg": "/react-kanban-board/static/media/Img - High Priority.5024fd0d163cb13c95f2d29079e2974d.svg",
+    "static/media/add.svg": "/react-kanban-board/static/media/add.f84a7335f3fac0026df6cafc2489b65d.svg",
+    "static/media/in-progress.svg": "/react-kanban-board/static/media/in-progress.d4beb72fbc94f765259fc46ecaba9779.svg",
+    "static/media/SVG - Urgent Priority colour.svg": "/react-kanban-board/static/media/SVG - Urgent Priority colour.9b67f75d5459d4d66573ef9f8e6f6841.svg",
+    "static/media/Backlog.svg": "/react-kanban-board/static/media/Backlog.97adf3356b7d2e775ef530f7aed206e0.svg",
+    "static/media/Tuning.svg": "/react-kanban-board/static/media/Tuning.60e58550d592097aa6f7865269c844d4.svg",
+    "static/media/To-do.svg": "/react-kanban-board/static/media/To-do.c01d92afcffeef58b2cd9ae080df1f58.svg",
+    "static/media/Down.svg": "/react-kanban-board/static/media/Down.1d0cf6ea731625d136ef60f7a594b7ce.svg",
+    "main.0473b8de.css.map": "/react-kanban-board/static/css/main.0473b8de.css.map",
+    "main.7f02d8fb.js.map": "/react-kanban-board/static/js/main.7f02d8fb.js.map",
+    "787.15952500.chunk.js.map": "/react-kanban-board/static/js/787.15952500.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0473b8de.css",
+    "static/js/main.7f02d8fb.js"
+  ]
+}
