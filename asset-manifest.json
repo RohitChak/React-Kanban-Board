@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Kanban-Board/static/css/main.0473b8de.css",
-    "main.js": "/React-Kanban-Board/static/js/main.77e53ed6.js",
+    "main.css": "/React-Kanban-Board/static/css/main.d1aa9237.css",
+    "main.js": "/React-Kanban-Board/static/js/main.cee2acd9.js",
     "static/js/787.15952500.chunk.js": "/React-Kanban-Board/static/js/787.15952500.chunk.js",
     "static/media/Cancelled.svg": "/React-Kanban-Board/static/media/Cancelled.360749f102ea2ac68b5841e9f9ff29dd.svg",
     "static/media/3 dot menu.svg": "/React-Kanban-Board/static/media/3 dot menu.4caedb468f68b915626e0e35045257b3.svg",
@@ -18,12 +18,12 @@
     "static/media/Tuning.svg": "/React-Kanban-Board/static/media/Tuning.60e58550d592097aa6f7865269c844d4.svg",
     "static/media/To-do.svg": "/React-Kanban-Board/static/media/To-do.c01d92afcffeef58b2cd9ae080df1f58.svg",
     "static/media/Down.svg": "/React-Kanban-Board/static/media/Down.1d0cf6ea731625d136ef60f7a594b7ce.svg",
-    "main.0473b8de.css.map": "/React-Kanban-Board/static/css/main.0473b8de.css.map",
-    "main.77e53ed6.js.map": "/React-Kanban-Board/static/js/main.77e53ed6.js.map",
+    "main.d1aa9237.css.map": "/React-Kanban-Board/static/css/main.d1aa9237.css.map",
+    "main.cee2acd9.js.map": "/React-Kanban-Board/static/js/main.cee2acd9.js.map",
     "787.15952500.chunk.js.map": "/React-Kanban-Board/static/js/787.15952500.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0473b8de.css",
-    "static/js/main.77e53ed6.js"
+    "static/css/main.d1aa9237.css",
+    "static/js/main.cee2acd9.js"
   ]
 }
