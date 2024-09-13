@@ -45,6 +45,7 @@
     margin-right: 0.8rem;
     height: 22px;
     width: 22px;
+    min-width: 22px;
     display: flex;
     align-items: center;
     justify-content: center;
